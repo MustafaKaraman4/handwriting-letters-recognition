@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">handd</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="foto">Fotoğraf Çek</string>
+    <string name="gonder">Gönder</string>
+    <string name="todo">TODO</string>
+    <string name="yeni_foto">Yeni Fotoğraf Çek</string>
+</resources>
